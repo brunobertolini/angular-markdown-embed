@@ -1,0 +1,22 @@
+{
+  "name": "markdown-embed",
+  "version": "0.0.0",
+  "authors": [
+    "Bruno Bertolini <dev@brunobertolini.com>"
+  ],
+  "description": "Directive to embed markdown in your html",
+  "keywords": [
+    "markdown",
+    "angular",
+    "directive",
+    "embed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

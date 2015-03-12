@@ -1,0 +1,29 @@
+{
+  "name": "markdown-embed",
+  "version": "0.0.0",
+  "description": "Directive to embed markdown in your html",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brunobertolini/angular-markdown-embed.git"
+  },
+  "keywords": [
+    "markdown",
+    "angular",
+    "directive",
+    "embed"
+  ],
+  "author": "Bruno Bertolini <dev@brunobertolini.com> (http://brunobertolini.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunobertolini/angular-markdown-embed/issues"
+  },
+  "homepage": "https://github.com/brunobertolini/angular-markdown-embed",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "nw-gulp-tasks": "^1.0.6"
+  }
+}
