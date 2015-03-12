@@ -18,5 +18,12 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "angular": "~1.3.14",
+    "marked": "~0.3.3"
+  },
+  "dependencies": {
+    "highlightjs": "~8.4.0"
+  }
 }
