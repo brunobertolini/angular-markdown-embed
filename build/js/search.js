@@ -1,3 +1,11 @@
+(function () {
+    'use strict';
+
+    angular
+        .module('bno.markdown', []);
+
+})();
+
 /* global marked: false */
 /* global hljs: false */
 
