@@ -2,7 +2,7 @@
 
 var gulp = require('nw-gulp-tasks')({
 
-    name: 'search',
+    name: 'markdown',
 
     build: true,
     release: true,
