@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/brunobertolini/angular-markdown-embed",
   "devDependencies": {
+    "bower": "^1.3.12",
     "gulp": "^3.8.11",
     "nw-gulp-tasks": "^1.0.6"
   }
