@@ -1,6 +1,6 @@
 {
   "name": "markdown-embed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Directive to embed markdown in your html",
   "main": " ",
   "scripts": {
