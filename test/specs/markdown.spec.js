@@ -18,7 +18,7 @@ describe('directive: bnoMarkdown', function() {
 
   //////////////////////////////////////////////////////////////////////////////
 
-  it('should trust and use literal urls', function() {
+  it('should work as an element', function() {
     var element = angular.element('<bno-markdown load="README.md"></bno-markdown>');
     $compile(element)($rootScope);
 

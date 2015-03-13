@@ -13,5 +13,5 @@ Directive to embed markdown in your html
 5. Insert the `bno-markdown` directive into your template:
 
 ```html
-<bno-markdown load="README.md"></markdown>
+<bno-markdown load="README.md"></bno-markdown>
 ```
