@@ -6,9 +6,11 @@ Directive to embed markdown in your html
 
 ## Usage
 
-1. `bower install angular-markdown-embed=https://github.com/brunobertolini/angular-markdown-embed`
-2. Add `bno.markdown` as a module dependency to your app.
-3. Insert the `bno-markdown` directive into your template:
+1. `bower install angular-markdown-embed`
+2. Import script `build/js/markdown.bundle.js`
+3. Import highlight theme default `highlightjs/styles/default.css`
+4. Add `bno.markdown` as a module dependency to your app.
+5. Insert the `bno-markdown` directive into your template:
 
 ```html
 <bno-markdown load="README.md"></markdown>
